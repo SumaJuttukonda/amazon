@@ -1,1 +1,1 @@
-database 2
+deploy.sh file
